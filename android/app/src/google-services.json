@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "953401821246",
+    "project_id": "babershop-7f50a",
+    "storage_bucket": "babershop-7f50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953401821246:android:8a1507d344033500d2696f",
+        "android_client_info": {
+          "package_name": "com.example.baber_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953401821246-skhmeeok4sen0k387fhvamdgd9paa9n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhpi8o4NGYFOcpFBRza_hz6OupaVC7Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953401821246-skhmeeok4sen0k387fhvamdgd9paa9n9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953401821246-c0cku09017v6ppiqrmhsle3lk8ks2alg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.baberShopApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
